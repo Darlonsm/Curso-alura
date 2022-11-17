@@ -29,5 +29,5 @@ O projeto é somente um teste de criação de README, não visa mais nada além 
 
 Para rodar esse projeto em sua máquina, por favor digite:
 ...
-npm install
+node teste.js
 ...
