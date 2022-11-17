@@ -1,1 +1,1 @@
-console.log("Criando arquivo");
+console.log("Criando arquivo javaScript");
